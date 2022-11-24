@@ -1,0 +1,11 @@
+:root {
+  --color-primary: rgb(141, 25, 28);
+  --color-secondary: rgb(46, 49, 146);
+  --color-azul2: #021442;
+  --color-vermelho: #83132c;
+
+
+  --spacing: 10px;
+
+  --fontepadrao: font-family: 'Kanit', sans-serif;
+}
